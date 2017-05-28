@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=dev-go/colorize dev-go/git2go dev-go/go-ini dev-go/golog dev-go/yaml dev-lang/go
+DESCRIPTION=Commandline application, written in Go, to install configuration files
+EAPI=6
+HOMEPAGE=http://tyil.work/project/gohan
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+SLOT=0
+SRC_URI=https://c.darenet.org/tyil/gohan/repository/archive.tar.gz?ref=v1.0.0 -> gohan-1.0.0.tar.gz
+_eclass_exported_funcs=src_unpack:- src_compile:- src_install:-
+_md5_=27461a8bfe07514a2641a6bbb76bace7

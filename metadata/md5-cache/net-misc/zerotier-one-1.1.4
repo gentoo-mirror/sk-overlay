@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install unpack
+DESCRIPTION=nondescript
+EAPI=6
+HOMEPAGE=https://www.zerotier.com/
+IUSE=controller installer
+KEYWORDS=~amd64
+LICENSE=GPL-3
+RDEPEND=controller? ( =dev-db/sqlite-3* )
+SLOT=0
+SRC_URI=https://github.com/zerotier/ZeroTierOne/archive/1.1.4.tar.gz -> zerotier-one-1.1.4.tar.gz
+_eclass_exported_funcs=src_unpack:- src_compile:- src_install:-
+_md5_=e4920906c3b2476163ec63a96e9b2e38

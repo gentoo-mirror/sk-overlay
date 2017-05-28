@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=dev-lang/go >=dev-vcs/git-1.8.2.1
+DESCRIPTION=Command line application for dealing with Twitch
+EAPI=6
+HOMEPAGE=http://tyil.work/project/twitch-cli
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=dev-lang/go
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-r3 src_compile:- src_install:-
+_eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390
+_md5_=c1c4c30359c64f7507aa34a139e847c4

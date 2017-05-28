@@ -1,0 +1,21 @@
+app-misc/commander 0.1.0 0.2.0 0.3.0 0.4.0 1.0.0 1.1.0 1.1.1: A dmenu wrapper in Python to command your system
+app-misc/gohan 0.5.3 1.0.0: Commandline application, written in Go, to install configuration files
+app-misc/sconvert 1.0.0 1.0.1 1.1.0: Commandline shellscript to convert a complete music collection to another format
+app-misc/twitch-cli 1.0.0 2.0.0: Command line application for dealing with Twitch
+app-text/gist 4.5.0: Upload code to gist.github.com
+dev-go/colorize 0.1.1: Simple coloring library for output strings
+dev-go/git2go 20160427: Go bindings for git
+dev-go/go-ini 20130923: INI parsing library for Go
+dev-go/golog 0.3.0: Go library for logging
+dev-go/yaml 20160301: Implements YAML support for the Go language
+dev-lang/moarvm 2017.04-r1: A 6model-based VM for NQP and Rakudo Perl 6
+dev-libs/libsass 3.3.6: A C/C++ implementation of a Sass compiler.
+dev-python/pymenu 0.2.0: A python wrapper for calling dmenu
+games-misc/fortune 0.2: Displays a random fortune
+media-sound/mpa 0.1.0: Assisting application for mpd
+net-irc/hexchat-otr 0.2.2: Off-The-Record messaging (OTR) for hexchat
+net-misc/zerotier-one 1.1.4 1.1.6: nondescript
+sys-kernel/void-sources-bin 4.7.10 4.8.4: Void Linux distribution kernel
+sys-kernel/void-sources-headers-bin 4.7.10 4.8.4: Void Linux kernel headers
+x11-themes/arc-icon-theme 20160605 20161122: An icon pack designed to fit with the arc-theme.
+x11-themes/arc-theme 20160605 20161119: A flat theme with transparent elements

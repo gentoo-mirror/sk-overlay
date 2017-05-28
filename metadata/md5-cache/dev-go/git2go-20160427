@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=dev-lang/go >=dev-libs/libgit2-0.24.0
+DESCRIPTION=Go bindings for git
+EAPI=6
+HOMEPAGE=https://github.com/libgit2/git2go/
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=dev-lang/go >=dev-libs/libgit2-0.24.0
+SLOT=0
+SRC_URI=https://github.com/libgit2/git2go/archive/8eaae73f85dd3df78df80d2dac066eb0866444ae.zip -> git2go-20160427.zip
+_eclass_exported_funcs=src_unpack:- src_compile:- src_install:-
+_md5_=7f2f0ea14d25c1a7f7ba4b4fb94328b8
