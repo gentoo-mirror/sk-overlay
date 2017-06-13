@@ -12,6 +12,7 @@ dev-lang/moarvm 2017.04-r1: A 6model-based VM for NQP and Rakudo Perl 6
 dev-libs/libsass 3.3.6: A C/C++ implementation of a Sass compiler.
 dev-python/pymenu 0.2.0: A python wrapper for calling dmenu
 games-misc/fortune 0.2: Displays a random fortune
+media-gfx/font-manager 0.7.3 9999-r2: A font management application for the GNOME desktop
 media-sound/mpa 0.1.0: Assisting application for mpd
 net-irc/hexchat-otr 0.2.2: Off-The-Record messaging (OTR) for hexchat
 net-misc/zerotier-one 1.1.4 1.1.6: nondescript
