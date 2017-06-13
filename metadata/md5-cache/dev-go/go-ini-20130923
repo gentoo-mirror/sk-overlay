@@ -9,4 +9,4 @@ RDEPEND=dev-lang/go
 SLOT=0
 SRC_URI=https://github.com/vaughan0/go-ini/archive/a98ad7ee00ec53921f08832bc06ecf7fd600e6a1.zip -> go-ini-20130923.zip
 _eclass_exported_funcs=src_unpack:- src_compile:- src_install:-
-_md5_=1fcaf37ba6a502603afefa5bcd1c64c0
+_md5_=cc22d5179385369956f66ca95ed4784a

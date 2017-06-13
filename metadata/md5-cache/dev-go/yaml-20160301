@@ -9,4 +9,4 @@ RDEPEND=dev-lang/go
 SLOT=0
 SRC_URI=https://github.com/go-yaml/yaml/archive/a83829b6f1293c91addabc89d0571c246397bbf4.zip -> yaml-20160301.zip
 _eclass_exported_funcs=src_unpack:- src_compile:- src_install:-
-_md5_=e409c8dcb2851d8f4db348b20b25dffd
+_md5_=b576621c914e1ee158639a4624efce77

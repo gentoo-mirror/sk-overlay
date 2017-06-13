@@ -9,4 +9,4 @@ RDEPEND=dev-go/colorize dev-lang/go
 SLOT=0
 SRC_URI=https://c.darenet.org/tyil/golog/repository/archive.tar.gz?ref=v0.3.0 -> golog-0.3.0.tar.gz
 _eclass_exported_funcs=src_unpack:- src_compile:- src_install:-
-_md5_=5cbcf603c1ac1da5c4f90d53ec93c38a
+_md5_=4797d2ef373b97218cbb092baef3ab20
