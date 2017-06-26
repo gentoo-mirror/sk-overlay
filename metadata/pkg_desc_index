@@ -1,5 +1,6 @@
 app-misc/commander 0.1.0 0.2.0 0.3.0 0.4.0 1.0.0 1.1.0 1.1.1: A dmenu wrapper in Python to command your system
 app-misc/gohan 0.5.3 1.0.0: Commandline application, written in Go, to install configuration files
+app-misc/rdfind 1.3.5: Rdfind is a program that finds duplicate files.
 app-misc/sconvert 1.0.0 1.0.1 1.1.0: Commandline shellscript to convert a complete music collection to another format
 app-text/gist 4.5.0 4.6.1: Upload code to gist.github.com
 dev-go/colorize 0.1.1: Simple coloring library for output strings
