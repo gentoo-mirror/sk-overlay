@@ -17,3 +17,4 @@ media-gfx/font-manager 0.7.3 9999-r2: A font management application for the GNOM
 media-sound/mpa 0.1.0: Assisting application for mpd
 net-irc/hexchat-otr 0.2.2: Off-The-Record messaging (OTR) for hexchat
 net-misc/zerotier-one 1.1.4 1.1.6: nondescript
+x11-libs/libvdpau-va-gl 0.4.2: VDPAU driver with VA-API/OpenGL backend.
