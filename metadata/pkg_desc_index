@@ -3,7 +3,7 @@ app-misc/gohan 0.5.3 1.0.0: Commandline application, written in Go, to install c
 app-misc/rdfind 1.3.5: Rdfind is a program that finds duplicate files.
 app-misc/sconvert 1.0.0 1.0.1 1.1.0: Commandline shellscript to convert a complete music collection to another format
 app-text/gist 4.5.0 4.6.1: Upload code to gist.github.com
-dev-db/dbeaver-ce 4.1.0 4.1.2: Free Universal SQL Client
+dev-db/dbeaver-ce 4.1.0 4.1.2 4.1.3: Free Universal SQL Client
 dev-go/colorize 0.1.1: Simple coloring library for output strings
 dev-go/git2go 20160427: Go bindings for git
 dev-go/go-ini 20130923: INI parsing library for Go
