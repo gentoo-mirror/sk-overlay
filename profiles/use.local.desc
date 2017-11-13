@@ -2,6 +2,8 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-misc/anki:recording - Enable support for audio recording
+app-misc/anki:sound - Enable support for adding sound to cards
 dev-lang/moarvm:asan - Enable clang's Address Sanitizer functionality. Expect longer compile time.
 dev-lang/moarvm:clang - Use clang compiler instead of GCC
 dev-lang/moarvm:jit - Enable Just-In-Time-Compiler. Has no effect except on AMD64 and Darwin.
