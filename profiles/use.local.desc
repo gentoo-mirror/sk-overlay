@@ -2,14 +2,3 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-misc/anki:recording - Enable support for audio recording
-app-misc/anki:sound - Enable support for adding sound to cards
-dev-lang/moarvm:asan - Enable clang's Address Sanitizer functionality. Expect longer compile time.
-dev-lang/moarvm:clang - Use clang compiler instead of GCC
-dev-lang/moarvm:jit - Enable Just-In-Time-Compiler. Has no effect except on AMD64 and Darwin.
-dev-lang/moarvm:optimize - Enable optimization via CFLAGS
-dev-lang/moarvm:ubsan - Enable clang's Undefined Behavior Sanitizer functionality. Expect longer compile time.
-dev-libs/libsass:shared - Build as a shared lib
-dev-libs/libsass:static - Build statically
-net-misc/zerotier-one:controller - Build tools to run as a controller
-net-misc/zerotier-one:installer - Build the installer
