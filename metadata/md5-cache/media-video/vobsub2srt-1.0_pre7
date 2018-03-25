@@ -1,0 +1,11 @@
+DEFINED_PHASES=unpack
+DEPEND=>=app-text/tesseract-2.04-r1 >=virtual/ffmpeg-0.6.90
+DESCRIPTION=Convert VobSub (.sub/.idx) to .srt subtitles using tesseract
+EAPI=6
+HOMEPAGE=https://github.com/ruediger/VobSub2SRT
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=>=app-text/tesseract-2.04-r1 >=virtual/ffmpeg-0.6.90
+SLOT=0
+SRC_URI=https://codeload.github.com/ruediger/VobSub2SRT/tar.gz/v1.0pre7 -> vobsub2srt-1.0_pre7.tar.gz
+_md5_=8f677119a395e1a39cf40c6071a9cddb
