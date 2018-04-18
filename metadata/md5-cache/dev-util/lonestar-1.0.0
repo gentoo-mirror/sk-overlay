@@ -1,0 +1,9 @@
+DEFINED_PHASES=compile install
+DESCRIPTION=A small Bash application to install the Rakudo Star Perl 6 distribution
+EAPI=6
+HOMEPAGE=https://github.com/tyil/lonestar
+KEYWORDS=~amd64 ~x86
+LICENSE=AGPL-3
+SLOT=0
+SRC_URI=https://github.com/tyil/lonestar/archive/v1.0.0.tar.gz -> lonestar-1.0.0.tar.gz
+_md5_=46e16481c00b695c87e579568b90b3e6
