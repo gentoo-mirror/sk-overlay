@@ -7,14 +7,33 @@ DESCRIPTION="SHell Compatibility Tester"
 HOMEPAGE="https://gitlab.com/tyil/shct"
 SRC_URI="https://gitlab.com/tyil/${PN}/-/archive/v${PV}/${PN}-v${PV}.tar.gz -> ${P}.tar.gz"
 
-LICENSE="AGPL-3.0"
+LICENSE="AGPL-3"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
-IUSE=""
+IUSE="
+	+bash
+	dash
+	fish
+	ksh
+	sash
+	scsh
+	tcsh
+	yash
+	zsh
+	+minimal
+"
 
-DEPEND=""
-RDEPEND="${DEPEND}"
-BDEPEND=""
+RDEPEND="
+	bash? ( app-shells/bash )
+	dash? ( app-shells/dash )
+	fish? ( app-shells/fish )
+	ksh? ( app-shells/ksh )
+	sash? ( app-shells/sash )
+	scsh? ( app-shells/scsh )
+	tcsh? ( app-shells/tcsh )
+	yash? ( app-shells/yash )
+	zsh? ( app-shells/zsh )
+"
 
 src_unpack() {
 	unpack "${A}"
@@ -34,5 +53,11 @@ src_install() {
 	dobin bin/shct
 
 	mkdir -p "${D}/usr/share/shct"
-	cp install-cmds/* "${D}/usr/share/shct/"
+
+	if use minimal
+	then
+		cp install-cmds/gentoo "${D}/usr/share/shct/"
+	else
+		cp install-cmds/* "${D}/usr/share/shct/"
+	fi
 }
