@@ -1,0 +1,9 @@
+DEFINED_PHASES=install prepare unpack
+DESCRIPTION=SHell Compatibility Tester
+EAPI=7
+HOMEPAGE=https://gitlab.com/tyil/shct
+KEYWORDS=~amd64 ~x86
+LICENSE=AGPL-3.0
+SLOT=0
+SRC_URI=https://gitlab.com/tyil/shct/-/archive/v0.1.0/shct-v0.1.0.tar.gz -> shct-0.1.0.tar.gz
+_md5_=df07acdd90c27b273c7211a2a4132f08
