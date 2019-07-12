@@ -8,4 +8,4 @@ LICENSE=AGPL-3
 RDEPEND=bash? ( app-shells/bash ) dash? ( app-shells/dash ) fish? ( app-shells/fish ) ksh? ( app-shells/ksh ) sash? ( app-shells/sash ) scsh? ( app-shells/scsh ) tcsh? ( app-shells/tcsh ) yash? ( app-shells/yash ) zsh? ( app-shells/zsh )
 SLOT=0
 SRC_URI=https://gitlab.com/tyil/shct/-/archive/v0.1.0/shct-v0.1.0.tar.gz -> shct-0.1.0.tar.gz
-_md5_=6c61e8db2e33cb404cad6d3d7f4acd19
+_md5_=74cb0c5c87fe7e219a11eae53fc54dfb

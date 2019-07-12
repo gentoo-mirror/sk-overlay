@@ -7,4 +7,4 @@ LICENSE=AGPL-3
 RDEPEND=bash? ( app-shells/bash ) dash? ( app-shells/dash ) fish? ( app-shells/fish ) ksh? ( app-shells/ksh ) sash? ( app-shells/sash ) scsh? ( app-shells/scsh ) tcsh? ( app-shells/tcsh ) yash? ( app-shells/yash ) zsh? ( app-shells/zsh )
 SLOT=0
 SRC_URI=https://gitlab.com/tyil/shct/-/archive/master/shct-master.tar.gz -> shct-9999.tar.gz
-_md5_=fd9c2be00cfc3d2b71c896b265a60324
+_md5_=fde6afea53d7c7bc742f0fff458e3ea5
