@@ -1,0 +1,11 @@
+DEFINED_PHASES=-
+DEPEND=dev-python/setuptools dev-python/requests dev-python/pytz dev-python/six
+DESCRIPTION=Python API wrapper for Instructure's Canvas LMS
+EAPI=7
+HOMEPAGE=https://github.com/ucfopen/canvasapi
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+RDEPEND=dev-python/setuptools dev-python/requests dev-python/pytz dev-python/six
+SLOT=0
+SRC_URI=mirror://pypi/c/canvasapi/canvasapi-0.13.0.tar.gz
+_md5_=f6ab8562d0009bcf0b5bc4c59063fe48
