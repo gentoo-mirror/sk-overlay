@@ -14,5 +14,5 @@ app-shells/shct:yash - Install the yash shell as a dependency.
 app-shells/shct:zsh - Install the zsh shell as a dependency.
 dev-libs/libsass:shared - Build as a shared lib
 dev-libs/libsass:static - Build statically
-net-misc/zerotier-one:controller - Build tools to run as a controller
-net-misc/zerotier-one:installer - Build the installer
+sys-kernel/void-sources-bin:dracut - If set, build an initramfs using sys-kernel/dracut after setting up the kernel.
+sys-kernel/void-sources-bin:headers - Install the corresponding void-sources headers

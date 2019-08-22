@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile configure install postinst
+DESCRIPTION=Void Linux kernel headers
+EAPI=7
+HOMEPAGE=https://voidlinux.org/
+KEYWORDS=~amd64
+LICENSE=GPL-2
+RDEPEND==sys-kernel/void-sources-bin-4.19.67-r0
+RESTRICT=mirror strip
+SLOT=0
+SRC_URI=amd64? ( http://mirror.aarnet.edu.au/pub/voidlinux/current/linux4.19-headers-4.19.67_1.x86_64.xbps -> void-linux-headers_amd64-bin-4.19.67.tar.xz )
+_md5_=56124c53b1f81636d1c90c3fd351f915

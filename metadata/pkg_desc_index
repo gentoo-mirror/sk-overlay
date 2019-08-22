@@ -1,8 +1,8 @@
+app-admin/terragrunt-bin 0.19.21: A thin wrapper for Terraform
 app-misc/gohan 0.5.3 1.0.0: Commandline application, written in Go, to install configuration files
 app-misc/rdfind 1.3.5: Rdfind is a program that finds duplicate files.
 app-misc/sconvert 1.0.0 1.0.1 1.1.0: Commandline shellscript to convert a complete music collection to another format
-app-shells/shct 0.1.0 9999: SHell Compatibility Tester
-dev-db/dbeaver-ce-bin 5.0.1 5.0.2 5.0.3: Free Universal SQL Client
+app-shells/shct 0.1.0: SHell Compatibility Tester
 dev-go/colorize 0.1.1: Simple coloring library for output strings
 dev-go/git2go 20160427: Go bindings for git
 dev-go/go-ini 20130923: INI parsing library for Go
@@ -10,11 +10,13 @@ dev-go/golog 0.3.0: Go library for logging
 dev-go/yaml 20160301: Implements YAML support for the Go language
 dev-libs/libsass 3.3.6: A C/C++ implementation of a Sass compiler.
 dev-python/canvasapi 0.13.0: Python API wrapper for Instructure's Canvas LMS
+dev-python/python-socketio 4.3.1: Python Socket.IO server and client
 dev-util/lonestar 1.0.4: A small Bash application to install the Rakudo Star Perl 6 distribution
 media-fonts/noto 20171025: Google's font family that aims to support all the world's languages
 media-fonts/tewi-font 2.0.2: small bitmap font
 media-sound/mpa 0.1.0: Assisting application for mpd
 media-video/vobsub2srt 1.0_pre4 1.0_pre5 1.0_pre6 1.0_pre7 9999: Convert VobSub (.sub/.idx) to .srt subtitles using tesseract
 net-irc/hexchat-otr 0.2.2: Off-The-Record messaging (OTR) for hexchat
-net-misc/zerotier-one 1.1.4 1.1.6: nondescript
+sys-kernel/void-sources-bin 3.16.72 3.18.124 4.4.189 4.9.189 4.14.139 4.19.67 4.20.17 5.0.21 5.1.21 5.2.9: Void Linux distribution kernel
+sys-kernel/void-sources-headers-bin 3.16.72 3.18.124 4.4.189 4.9.189 4.14.139 4.19.67 4.20.17 5.0.21 5.1.21 5.2.9: Void Linux kernel headers
 x11-libs/libvdpau-va-gl 0.4.2: VDPAU driver with VA-API/OpenGL backend.

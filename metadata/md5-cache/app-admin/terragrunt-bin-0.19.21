@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=dev-lang/go
+DESCRIPTION=A thin wrapper for Terraform
+EAPI=7
+HOMEPAGE=https://www.gruntwork.io
+KEYWORDS=~amd64
+LICENSE=MIT
+RDEPEND=dev-lang/go
+SLOT=0
+SRC_URI=https://github.com/gruntwork-io/terragrunt/releases/download/v0.19.21/terragrunt_linux_amd64 -> terragrunt-bin-0.19.21.bin
+_md5_=7416dffcf69cb2b37c20f2930259287e
