@@ -4,8 +4,8 @@ EAPI=7
 HOMEPAGE=https://voidlinux.org/
 KEYWORDS=~amd64
 LICENSE=GPL-2
-RDEPEND==sys-kernel/void-sources-bin-3.18.124-r0
+RDEPEND==sys-kernel/void-sources-bin-4.19.78-r0
 RESTRICT=mirror strip
 SLOT=0
-SRC_URI=amd64? ( http://alpha.de.repo.voidlinux.org/current/linux3.18-headers-3.18.124_1.x86_64.xbps -> void-linux-headers_amd64-bin-3.18.124.tar.xz )
+SRC_URI=amd64? ( http://alpha.de.repo.voidlinux.org/current/linux4.19-headers-4.19.78_1.x86_64.xbps -> void-linux-headers_amd64-bin-4.19.78.tar.xz )
 _md5_=8cf3c6241ca6c824565d0d4451a75bbb

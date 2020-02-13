@@ -1,0 +1,13 @@
+BDEPEND=dev-lang/lua dev-lua/lgi dev-lua/luafilesystem dev-util/meson x11-libs/gtk+:3 glfw? ( media-libs/glfw ) obs? ( media-video/obs-studio )
+DEFINED_PHASES=compile configure install unpack
+DEPEND=media-sound/pulseaudio x11-libs/libXcomposite x11-libs/libXext x11-libs/libXrender
+DESCRIPTION=OpenGL audio spectrum visualizer
+EAPI=7
+HOMEPAGE=https://github.com/jarcode-foss/glava
+IUSE=debug glfw obs
+LICENSE=GPL-3
+RDEPEND=media-sound/pulseaudio x11-libs/libXcomposite x11-libs/libXext x11-libs/libXrender
+SLOT=0
+SRC_URI=https://github.com/jarcode-foss/glava/archive/master.tar.gz -> glava-master.tar.gz
+_eclasses_=multiprocessing	cac3169468f893670dac3e7cb940e045	ninja-utils	132cbb376048d079b5a012f5467c4e7f
+_md5_=3f858bb9a274fd3626c864c357ec5e02

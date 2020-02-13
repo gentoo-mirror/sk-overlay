@@ -1,12 +1,17 @@
+app-admin/nwatch 2.0.2: Slightly nicer wrapper around Nmap's ndiff(1)
 app-admin/terragrunt-bin 0.19.21: A thin wrapper for Terraform
 app-misc/gohan 0.5.3 1.0.0: Commandline application, written in Go, to install configuration files
 app-misc/rdfind 1.3.5: Rdfind is a program that finds duplicate files.
 app-misc/sconvert 1.0.0 1.0.1 1.1.0: Commandline shellscript to convert a complete music collection to another format
 app-shells/shct 0.1.0: SHell Compatibility Tester
+dev-go/aws-sdk-go 1.23.4: AWS SDK for the Go programming language
 dev-go/colorize 0.1.1: Simple coloring library for output strings
+dev-go/errors 1.0.1: errors with stacktraces for go
 dev-go/git2go 20160427: Go bindings for git
 dev-go/go-ini 20130923: INI parsing library for Go
+dev-go/go-version 1.2.0: A library for parsing and verifying versions and constraints.
 dev-go/golog 0.3.0: Go library for logging
+dev-go/google-cloud-go 0.44.3: Google Cloud Client Libraries for Go.
 dev-go/yaml 20160301: Implements YAML support for the Go language
 dev-libs/libsass 3.3.6: A C/C++ implementation of a Sass compiler.
 dev-python/canvasapi 0.13.0: Python API wrapper for Instructure's Canvas LMS
@@ -17,6 +22,7 @@ media-fonts/tewi-font 2.0.2: small bitmap font
 media-sound/mpa 0.1.0: Assisting application for mpd
 media-video/vobsub2srt 1.0_pre4 1.0_pre5 1.0_pre6 1.0_pre7 9999: Convert VobSub (.sub/.idx) to .srt subtitles using tesseract
 net-irc/hexchat-otr 0.2.2: Off-The-Record messaging (OTR) for hexchat
-sys-kernel/void-sources-bin 3.16.72 3.18.124 4.4.189 4.9.189 4.14.139 4.19.67 4.20.17 5.0.21 5.1.21 5.2.9: Void Linux distribution kernel
-sys-kernel/void-sources-headers-bin 3.16.72 3.18.124 4.4.189 4.9.189 4.14.139 4.19.67 4.20.17 5.0.21 5.1.21 5.2.9: Void Linux kernel headers
+sys-kernel/void-sources-bin 3.16.75 3.18.124 4.4.196 4.9.196 4.14.148 4.19.78 5.2.20 5.3.5: Void Linux distribution kernel
+sys-kernel/void-sources-headers-bin 3.16.75 3.18.124 4.4.196 4.9.196 4.14.148 4.19.78 5.2.20 5.3.5: Void Linux kernel headers
+x11-apps/glava 1.6.3 9999: OpenGL audio spectrum visualizer
 x11-libs/libvdpau-va-gl 0.4.2: VDPAU driver with VA-API/OpenGL backend.

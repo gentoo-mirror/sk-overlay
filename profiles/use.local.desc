@@ -12,6 +12,7 @@ app-shells/shct:scsh - Install the scsh shell as a dependency.
 app-shells/shct:tcsh - Install the tcsh shell as a dependency.
 app-shells/shct:yash - Install the yash shell as a dependency.
 app-shells/shct:zsh - Install the zsh shell as a dependency.
+dev-go/go-version:compile - Compile and install binaries resulting from this Go package. When unset, only installs the library files to /usr/lib/go.
 dev-libs/libsass:shared - Build as a shared lib
 dev-libs/libsass:static - Build statically
 sys-kernel/void-sources-bin:dracut - If set, build an initramfs using sys-kernel/dracut after setting up the kernel.

@@ -9,5 +9,5 @@ PDEPEND=headers? ( =sys-kernel/void-sources-headers-bin-3.18.124-r0 )
 RDEPEND=dracut? ( sys-kernel/dracut )
 RESTRICT=mirror strip
 SLOT=0
-SRC_URI=amd64? ( http://mirror.aarnet.edu.au/pub/voidlinux/current/linux3.18-3.18.124_1.x86_64.xbps -> void-linux_amd64-bin-3.18.124.tar.xz )
-_md5_=dea4db10ee83b503f7b9d929a497311d
+SRC_URI=amd64? ( http://alpha.de.repo.voidlinux.org/current/linux3.18-3.18.124_1.x86_64.xbps -> void-linux_amd64-bin-3.18.124.tar.xz )
+_md5_=f824530b1e9965d2c28a2497e62605e2

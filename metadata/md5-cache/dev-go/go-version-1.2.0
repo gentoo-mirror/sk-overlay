@@ -1,0 +1,15 @@
+BDEPEND=>=dev-lang/go-1.10
+DEFINED_PHASES=compile install unpack
+DEPEND=dev-lang/go
+DESCRIPTION=A library for parsing and verifying versions and constraints.
+EAPI=7
+HOMEPAGE=https://github.com/hashicorp/go-version
+IUSE=+compile
+KEYWORDS=~amd64
+LICENSE=MPL-2.0
+RDEPEND=dev-lang/go
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/hashicorp/go-version/archive/v1.2.0.tar.gz -> go-version-1.2.0.tar.gz
+_eclasses_=golang-base	c57d2c3f9e1a02d0feb8b87c7b689892	golang-vcs-snapshot	12177e83bede6f7fb87eae383864b40b
+_md5_=5a02439f63ae227e8ad6f2495901fa8c
