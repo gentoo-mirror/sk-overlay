@@ -18,7 +18,6 @@ dev-libs/libsass 3.3.6: A C/C++ implementation of a Sass compiler.
 dev-python/canvasapi 0.13.0: Python API wrapper for Instructure's Canvas LMS
 dev-python/python-socketio 4.3.1: Python Socket.IO server and client
 dev-util/lonestar 1.0.4: A small Bash application to install the Rakudo Star Perl 6 distribution
-media-fonts/noto 20171025: Google's font family that aims to support all the world's languages
 media-fonts/tewi-font 2.0.2: small bitmap font
 media-sound/ashuffle 3.10.1: Shuffle your MPD library
 media-sound/mpa 0.1.0: Assisting application for mpd
