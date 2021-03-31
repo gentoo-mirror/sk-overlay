@@ -4,6 +4,7 @@ DEPEND=media-sound/pulseaudio x11-libs/libXcomposite x11-libs/libXext x11-libs/l
 DESCRIPTION=OpenGL audio spectrum visualizer
 EAPI=7
 HOMEPAGE=https://github.com/jarcode-foss/glava
+INHERIT=ninja-utils
 IUSE=debug glfw obs
 LICENSE=GPL-3
 RDEPEND=media-sound/pulseaudio x11-libs/libXcomposite x11-libs/libXext x11-libs/libXrender
