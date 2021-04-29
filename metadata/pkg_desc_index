@@ -26,5 +26,4 @@ net-irc/hexchat-otr 0.2.2: Off-The-Record messaging (OTR) for hexchat
 sys-kernel/void-sources-bin 3.16.75 3.18.124 4.4.196 4.9.196 4.14.148 4.19.78 5.2.20 5.3.5: Void Linux distribution kernel
 sys-kernel/void-sources-headers-bin 3.16.75 3.18.124 4.4.196 4.9.196 4.14.148 4.19.78 5.2.20 5.3.5: Void Linux kernel headers
 x11-apps/glava 1.6.3 9999: OpenGL audio spectrum visualizer
-x11-libs/libvdpau-va-gl 0.4.2: VDPAU driver with VA-API/OpenGL backend.
 x11-misc/xftwidth 9999: Calculates the width in pixels of a string using a given Xft font
