@@ -12,5 +12,5 @@ RDEPEND=dev-lang/go
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/hashicorp/go-version/archive/v1.2.0.tar.gz -> go-version-1.2.0.tar.gz
-_eclasses_=golang-base	9f0e420ab37bc55a318d74bab3aae891	golang-vcs-snapshot	6864f899c6843043ba23620fcd4a908c
+_eclasses_=golang-base	9f0e420ab37bc55a318d74bab3aae891	golang-vcs-snapshot	80659643e60eb07e6df6ff936b7d5f66
 _md5_=5a02439f63ae227e8ad6f2495901fa8c
