@@ -1,7 +1,6 @@
 app-admin/nwatch 2.0.2: Slightly nicer wrapper around Nmap's ndiff(1)
 app-admin/terragrunt-bin 0.19.21: A thin wrapper for Terraform
 app-misc/gohan 0.5.3 1.0.0: Commandline application, written in Go, to install configuration files
-app-misc/mangadex-scraper 0.5.1: Scrape manga off of mangadex.org
 app-misc/rdfind 1.3.5: Rdfind is a program that finds duplicate files.
 app-misc/sconvert 1.0.0 1.0.1 1.1.0: Commandline shellscript to convert a complete music collection to another format
 app-shells/shct 0.1.0: SHell Compatibility Tester
