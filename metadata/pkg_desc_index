@@ -20,7 +20,6 @@ media-fonts/tewi-font 2.0.2: small bitmap font
 media-sound/ashuffle 3.10.1: Shuffle your MPD library
 media-sound/mpa 0.1.0: Assisting application for mpd
 media-video/vobsub2srt 1.0_pre4 1.0_pre5 1.0_pre6 1.0_pre7 9999: Convert VobSub (.sub/.idx) to .srt subtitles using tesseract
-net-irc/hexchat-otr 0.2.2: Off-The-Record messaging (OTR) for hexchat
 sys-kernel/void-sources-bin 3.16.75 3.18.124 4.4.196 4.9.196 4.14.148 4.19.78 5.2.20 5.3.5: Void Linux distribution kernel
 sys-kernel/void-sources-headers-bin 3.16.75 3.18.124 4.4.196 4.9.196 4.14.148 4.19.78 5.2.20 5.3.5: Void Linux kernel headers
 x11-apps/glava 1.6.3 9999: OpenGL audio spectrum visualizer
