@@ -10,5 +10,5 @@ LICENSE=GPL-3
 RDEPEND=media-sound/pulseaudio x11-libs/libXcomposite x11-libs/libXext x11-libs/libXrender
 SLOT=0
 SRC_URI=https://github.com/jarcode-foss/glava/archive/master.tar.gz -> glava-master.tar.gz
-_eclasses_=multiprocessing	e644caa6eb7ce7e5ab0864383ac13ad9	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6
 _md5_=3f858bb9a274fd3626c864c357ec5e02
